@@ -10,4 +10,4 @@ A sample output file has also been shared in the repo with name - output.png
 
 *If you want to change the default cell filling then simply go to the end of print_board() functions and under the heading default change the empty_cell function to any desired functions.
 
-For any queries or suggestions refer to my blog 
+For any queries or suggestions refer to my blog post : https://ktpython.blogspot.com/2022/11/grid-printing-code-for-python.html
